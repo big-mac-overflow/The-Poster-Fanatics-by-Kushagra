@@ -18,11 +18,18 @@ vii.	PHP is used to connect frontend to the backend
 viii.	MongoDB is used as the database that stores user details 
 
 # **2.	Scope for further development**
+
 i.	Develop app for the same website
+
 ii.	Create Instagram, Facebook pages for promotion through digital marketing to target audience(genZ)
+
 iii.	Create and connect fully automatic order and ticket generation system that works in conjunction with the above site
+
 iv.	Create inventory management system working in conjunction with the order generation system
+
 v.	using points iii and iv, create a minimum workforce consisting of only printing staff and procurement staff, while logistics is automated
+
 vi.	Automatic ordering system using IoT and automation
+
 vii.	Addition of payment gateway
 
