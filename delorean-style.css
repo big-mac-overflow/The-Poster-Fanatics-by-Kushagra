@@ -36,7 +36,9 @@ section.notFound h1, h2, h3 {
 }
 
 div.text {
+    padding: 35px;
     height: 50vh;
+    background-color: #000000;
 }
 
 div.text a {
