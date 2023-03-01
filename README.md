@@ -1,4 +1,5 @@
-# ThePosterFanatics
+# The Poster Fanatics 
+Contains code for 'The Poster Fanatics'; A mobile-friendly, responsive, e-commerce website selling artwork 
 
 # **1.	Features of the website (frameworks used):**
 i.	This website serves as the one-stop destination for user to browse and buy artwork related to Movies, TV Series, Gaming and even Modern/Classical Artwork through use of HTML5
